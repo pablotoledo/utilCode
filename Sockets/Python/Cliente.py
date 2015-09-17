@@ -2,7 +2,7 @@
 """"
 @jpablotoledo
 
-Send a binary file over the socket with python
+Send a binary file over the socket with python.
 
 """
 import socket
