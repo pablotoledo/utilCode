@@ -36,6 +36,7 @@ public class JavaSockets {
         in.close();
         bufferWrite.close();
         socket.close();
+		
     }
     
 }
