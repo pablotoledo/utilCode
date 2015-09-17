@@ -1,7 +1,7 @@
 /*
 @jpablotoledo
 
-Send a binary file over client socket in Java
+Send a binary file over client socket in Java.
 
 */
 package javasockets;
