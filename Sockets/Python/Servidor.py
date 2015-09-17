@@ -38,4 +38,3 @@ while True:
 	file.close()
     print('Desconnecting '+clientIP)
 	connection.close()
-	
